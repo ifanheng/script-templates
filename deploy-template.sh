@@ -1,4 +1,7 @@
 #!/bin/bash
+# 作者：Adam Fan
+# 邮箱：fanhengmail@163.com
+# 说明：一个用于部署的bash shell脚本模板
 
 # 默认参数
 default_username="default_user"

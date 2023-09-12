@@ -1,5 +1,5 @@
 # deploy-template.sh 
-一个用户部署的bash shell脚本模板
+一个用于部署的bash shell脚本模板
 
 ```
 # bash deploy-template.sh 
